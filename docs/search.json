@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\nAbout Me\r\nHi! My name is Austin Zhuang, and I go to The\r\nHaverford School.\r\nAbout the Project\r\nThe project’s title is undecided, but it will hopefully be\r\nabout mental health\r\nGoals\r\nVisualize data on factors that lead to mental health\r\nCreating the correct labels that tell the clearest story\r\n\r\nUse visualizations to promote mental health awareness\r\n“This is data science”\r\n\r\nPreceptor\r\n\r\nKane’s Free High School\r\nData Science bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-26T20:23:22-04:00"
+      "last_modified": "2022-06-26T20:38:47-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,35 @@
       "description": "This is where I will describe my final project\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-26T20:23:26-04:00"
+      "last_modified": "2022-06-26T20:38:51-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "Detailed notes for Source A\n",
+      "author": [
+        {
+          "name": "Austin Zhuang",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-26T20:38:51-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "Detailed notes for Source B\n",
+      "author": [
+        {
+          "name": "Austin Zhuang",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-26T20:38:52-04:00"
     }
   ],
   "collections": []
